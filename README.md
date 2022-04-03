@@ -2,10 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=dpaguba)
 
-## I'm a beginner Developer
+## I'm a beginner FullStack Developer
 - 🖥 I like to write code
-- 💪 I go to gym 3-4 times a week
+- 🎓 I study Applied Informatics at TU Dortmund
 - 🔥 I am constantly learning new things
+- 💪 I go to gym 3-4 times a week
+
 
 
 
