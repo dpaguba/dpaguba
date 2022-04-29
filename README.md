@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Dmitriy
 
+I am currently working as a Developer in Dortmund next to my university study. I use github fun mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.
+
 ![](https://komarev.com/ghpvc/?username=dpaguba)
 
 ## I'm a beginner FullStack Developer
