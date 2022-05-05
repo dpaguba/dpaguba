@@ -13,7 +13,7 @@
 
 - 🎓 I study Applied Informatics at TU Dortmund
 
-- 📚 I’m currently learning **Angular, Dart & Plotly**
+- 📚 I’m currently learning **Angular, Dart & Flutter**
 
 - 💬 Ask me about **Python, js, Java** 
 
