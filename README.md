@@ -7,8 +7,9 @@ I am currently working as a Developer in Dortmund next to my university study. I
 ## I'm a beginner FullStack Developer
 - 🖥 I like to write code
 - 🎓 I study Applied Informatics at TU Dortmund
-- 🔥 I am constantly learning new things
-- 💪 I go to gym 3-4 times a week
+- 🔥  I’m currently learning **Angular, Dart & Plotly**
+- 💬 Ask me about **Python, js, Java** 
+- 📫 How to reach me **dpaguba@gmail.com**
 
 
 
