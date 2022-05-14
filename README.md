@@ -9,7 +9,7 @@
 
 ### I'm a beginner FullStack Developer
 
-<!-- - 🖥 I’m currently working on **[todo-list](https://github.com/tahaphuong/todo-frontend)** -->
+- 🖥 I’m currently working on **[todo-list](https://github.com/tahaphuong/todo-frontend)**
 
 - 🎓 I study Applied Informatics at TU Dortmund
 
