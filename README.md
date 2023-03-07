@@ -9,13 +9,13 @@
 
 ### I'm a beginner FullStack Developer
 
-<!-- - 🖥 I’m currently working on **[todo-list](https://github.com/tahaphuong/todo-frontend)** -->
+<!-- - 🖥 I’m currently working on **[]()** -->
 
 - 🎓 I study Applied Informatics at TU Dortmund
 
-- 📚 I’m currently learning **Angular, Dart & Flutter**
+- 📚 I’m currently learning **Angular, React Native, Node.js**
 
-- 💬 Ask me about **Python, js, Java** 
+- 💬 Ask me about **Python, JavaScript, Dart & Flutter** 
 
 - 📫 How to reach me **dpaguba@gmail.com**
 
