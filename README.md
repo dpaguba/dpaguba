@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
 
-<h3 align="center">I am working as a Developer in Dortmund next to my university study. I use github for mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.</h3>
+<h3 align="center">I am working as Junior Full-Stack in Dortmund next to my university study. I use github for mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.</h3>
 
 ![](https://komarev.com/ghpvc/?username=dpaguba)
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
 
-### I'm a beginner FullStack Developer
+### I'm Junior Full-Stack Developer
 
 <!-- - 🖥 I’m currently working on **[]()** -->
 
