@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dmitriy</h1>
+<h1 align="center">Hi 👋, I'm Dmytro</h1>
 
 <h3 align="center">I am working as Junior Full-Stack in Dortmund next to my university study. I use github for mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.</h3>
 
