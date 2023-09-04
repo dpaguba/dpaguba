@@ -13,7 +13,7 @@
 
 - 🎓 I study Applied Informatics at TU Dortmund
 
-- 📚 I’m currently learning **Angular, React Native, Node.js**
+- 📚 I’m currently learning **Angular, Vue.js, Node.js**
 
 - 💬 Ask me about **Python, JavaScript, Dart & Flutter** 
 
