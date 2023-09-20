@@ -61,9 +61,8 @@
 
 <details>
   <summary>⚡ ️Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpaguba&langs_count=8&layout=compact&count_private=true" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dpaguba&show_icons=true&count_private=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpaguba&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dpaguba&include_all_commits=true" />
 </details>
 
 
