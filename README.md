@@ -61,7 +61,7 @@
 
 <details>
   <summary>⚡ ️Statistics:</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpaguba&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpaguba&layout=donut" />
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dpaguba&include_all_commits=true" />
 </details>
 
