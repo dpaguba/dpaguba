@@ -11,7 +11,7 @@
 
 <!-- - 🖥 I’m currently working on **[]()** -->
 
-- 🎓 I study Applied Informatics at TU Dortmund
+- 🎓 I study Computer Science at TU Dortmund
 
 - 📚 I’m currently learning **Angular, Vue.js, Node.js**
 
