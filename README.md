@@ -86,5 +86,5 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dpaguba&include_all_commits=true" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/dmitriy-pahuba-b714b222b/
+[linkedin]: https://www.linkedin.com/in/dmytro-pahuba-b0868b26b/
 [instagram]: https://www.instagram.com/dpaguba/
