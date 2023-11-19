@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
-### I'm Junior Full-Stack Developer
+### I'm Full-Stack Developer
 
 <!-- - 🖥 I’m currently working on **[]()** -->
 
