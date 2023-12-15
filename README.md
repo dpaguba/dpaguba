@@ -12,7 +12,7 @@
 
 - 🎓 I study Computer Science at TU Dortmund
 
-- 📚 I’m currently learning **Angular, Vue.js, Node.js**
+- 📚 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **Python, JavaScript, Dart & Flutter**
 
