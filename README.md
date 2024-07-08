@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 
-<h3 align="center">I am working as Full-Stack in Germany next to my university study. I use github for mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.</h3>
+<h3 align="center">I am working as Software Developer in Germany next to my university study. I use github for mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.</h3>
 
 ![](https://komarev.com/ghpvc/?username=dpaguba)
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
-### I'm Full-Stack Developer
+### I'm Software Developer
 
 <!-- - 🖥 I’m currently working on **[]()** -->
 
@@ -14,7 +14,7 @@
 
 - 📚 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **Python, JavaScript, Dart & Flutter**
+- 💬 Ask me about **JavaScript, Dart & Flutter**
 
 - 📫 How to reach me **dpaguba@gmail.com**
 
