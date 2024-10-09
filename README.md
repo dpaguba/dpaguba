@@ -12,7 +12,7 @@
 
 - 🎓 I study Computer Science at TU Dortmund
 
-- 📚 I’m currently learning **Angular**
+- 📚 I’m currently learning **GSAP**
 
 - 💬 Ask me about **JavaScript, Dart & Flutter**
 
