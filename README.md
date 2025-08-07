@@ -12,9 +12,9 @@
 
 - 🎓 I study Computer Science at TU Dortmund
 
-- 📚 I’m currently learning **GSAP**
+- 📚 I’m currently learning **Ionic**
 
-- 💬 Ask me about **JavaScript, Dart & Flutter**
+- 💬 Ask me about **JavaScript, Dart & Flutter, Python**
 
 - 📫 How to reach me **dpaguba@gmail.com**
 
